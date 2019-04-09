@@ -11,3 +11,7 @@ https://developer.android.com/guide/?hl=ko
 다음부턴 xml이랑 메인자바 그리고 기본에서 바뀐 코드만 입력하겠읍니다.
 
 
+
+일~수:모콘
+목 ~ 토:
+
