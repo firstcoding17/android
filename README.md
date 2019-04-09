@@ -13,5 +13,6 @@ https://developer.android.com/guide/?hl=ko
 
 
 일~수:모콘
-목 ~ 토:
+목 ~ 토: 일반 공부하기
+열
 
