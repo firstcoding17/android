@@ -18,4 +18,4 @@ https://hyogeun-android.tistory.com/entry/ViewPager2%EC%97%90-%EA%B4%80%ED%95%9C
 이사이트는 킹갓님의 사이트 입니다 저와 같이 안드공부하는 사람분은 여기서 많은 도움이 될 것 
 
 
-
+오류가난다면 https://developer.android.com/topic/libraries/support-library/setup?hl=ko 이 사이트를 애용하자!
